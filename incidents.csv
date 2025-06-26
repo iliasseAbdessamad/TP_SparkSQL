@@ -1,0 +1,17 @@
+Id,titre,description,service,date
+1,Crash application mobile,App plante au démarrage,Support,2024-02-12
+2,Incident réseau VPN,Connexion distante impossible,Infrastructure,2023-11-28
+3,Problème d’authentification,Login refusé après mise à jour,Sécurité,2024-07-03
+4,Erreur d'impression,Documents sortent vierges,Bureau,2022-09-21
+5,Incident de déploiement,Version incorrecte en production,DevOps,2025-03-15
+6,Erreur de synchronisation,Données non à jour sur tablette,Terrain,2023-06-30
+7,Blocage logiciel,Gestion commerciale figée,Finance,2025-01-19
+8,Incident d'accès VPN,Tunnel bloqué pour les mobiles,Infrastructure,2024-10-05
+9,Envoi massif d'emails,Spam interne accidentel,Communication,2022-12-07
+10,Plantage système caisse,Redémarrage intempestif,Magasin,2023-04-25
+11,Mauvais paramétrage,Notifications désactivées,Client,2025-05-10
+12,Surcharge serveur mail,Ralentissements en réception,Support,2023-08-14
+13,Perte de badge,Pas d’accès aux bureaux,Sécurité,2024-01-08
+14,Défaillance caméra,Plus de vidéosurveillance,Sécurité,2023-05-20
+15,Mise à jour échouée,Application RH non disponible,RH,2025-02-03
+16,Incident de déploiement,Conteneur crash au démarrage,DevOps,2023-03-15
