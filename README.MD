@@ -31,7 +31,7 @@ sur un cluser Spark sous forme de conteneurs via Docker
 <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">clicquez ici</a> 
 pour l'installer depuis le site officiel d'oracle.
 </b>
-```
+text```
 java --version
 ```
 
