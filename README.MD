@@ -56,10 +56,12 @@ java -jar target/sparkSQL-1.0-SNAPSHOT-shaded.jar
 <br /><br />
 <h3>🏁 Résultats attendus</h3>
 <b>1. nombre d’incidents par service</b>
-<img src="./imgs/nbr_incidents_per_service.png">
+<br />
+<img src="./imgs/nbr_incidents_per_service.png" />
 
 <b>2. Les 2 années où il y avait beaucoup d'incidents</b>
-<img src="./imgs/top_2_years_by_incidents.png">
+<br />
+<img src="./imgs/top_2_years_by_incidents.png" />
 
 </br></br>
 <p>
