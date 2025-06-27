@@ -31,6 +31,7 @@ sur un cluser Spark sous forme de conteneurs via Docker
 <b>2. Cloner le dépôt (vous devez avoir l'outil git installé)</b>
 ```text
 git clone https://github.com/iliasseAbdessamad/TP_SparkSQL.spark
+```
 
 
 <b>3. accéder au projet</b>
