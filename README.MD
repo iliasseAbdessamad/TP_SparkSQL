@@ -26,12 +26,8 @@ sur un cluser Spark sous forme de conteneurs via Docker
 </ol>
 <br /><br />
 <h3>Démo : </h3>
-<b>
-1. Verifier si vous avez java 17 installée sur votre machine, sinon 
-<a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">clicquez ici</a> 
-pour l'installer depuis le site officiel d'oracle.
-</b>
-text```
+<b>1. Verifier si vous avez java 17 installée sur votre machine, sinon <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">clicquez ici</a> pour l'installer depuis le site officiel d'oracle.</b>
+```
 java --version
 ```
 
