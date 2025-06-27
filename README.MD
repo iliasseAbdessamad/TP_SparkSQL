@@ -26,10 +26,13 @@ sur un cluser Spark sous forme de conteneurs via Docker
 </ol>
 <br /><br />
 <h3>Démo : </h3>
-<b>1. Verifier si vous avez java 8 installée sur votre machine en tapant la commande java --version, sinon <a href="https://www.oracle.com/ma/java/technologies/javase/javase8-archive-downloads.html">clicquez ici</a> pour l'installer depuis le site officiel d'oracle.</b>
-<br />
-<b>2. Cloner le dépôt (vous devez avoir l'outil git installé)</b>
+<b>1. Verifier si vous avez java 8 installée sur votre machine, sinon <a href="https://www.oracle.com/ma/java/technologies/javase/javase8-archive-downloads.html">clicquez ici</a> pour l'installer depuis le site officiel d'oracle.</b>
 
+```
+git clone https://github.com/iliasseAbdessamad/TP_SparkSQL.spark
+```
+
+<b>2. Cloner le dépôt (vous devez avoir l'outil git installé)</b>
 ```
 git clone https://github.com/iliasseAbdessamad/TP_SparkSQL.spark
 ```
