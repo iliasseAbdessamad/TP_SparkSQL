@@ -29,9 +29,8 @@ sur un cluser Spark sous forme de conteneurs via Docker
 <b>1. Verifier si vous avez java 8 installée sur votre machine en tapant la commande java --version, sinon <a href="https://www.oracle.com/ma/java/technologies/javase/javase8-archive-downloads.html">clicquez ici</a> pour l'installer depuis le site officiel d'oracle.</b>
 <br />
 <b>2. Cloner le dépôt (vous devez avoir l'outil git installé)</b>
-```text
+```bash
 git clone https://github.com/iliasseAbdessamad/TP_SparkSQL.spark
-```
 
 
 <b>3. accéder au projet</b>
